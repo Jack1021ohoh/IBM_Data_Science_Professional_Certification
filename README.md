@@ -17,3 +17,5 @@ This Professional Certificate has a strong emphasis on applied learning. Except 
 **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc. 
 
 **Projects**: random album generator, predict housing prices, best classifier model, Predicting successful rocket landing, dashboa rd and interactive map
+
+**Course Link:** [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
